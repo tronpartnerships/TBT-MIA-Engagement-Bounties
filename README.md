@@ -39,8 +39,9 @@ Be the first person to take a selfie with a TRON banner on-site, post it to Twit
 
 **NILE Testnet Tokens**
 
-Visit https://nileex.io/join/getJoinPage and enter your TRONLink Address in the first input box to receive 2000 TRX.
-Alternatively, follow @TronTest2 on Twitter, then Tweet your wallet address and tag the @TronTest2 account with "NILE" in the body for 10,000 TRX!
+Visit [NILEEX](https://nileex.io/join/getJoinPage) and enter your TRONLink Address in the first input box to receive 2000 TRX on NILE testnet.
+
+Alternatively, follow [@TronTest2](https://twitter.com/TronTest2) on Twitter, then Tweet your wallet address and tag the @TronTest2 account with "NILE" in the body for 10,000 TRX!
 
 **Submissions**
 
@@ -51,5 +52,7 @@ To leave a comment, click on the center hyperlink on your selected Bounty to vie
 Winners will be decided by the TRON DAO HackaTRON team after comment submission on each post. We will notify winners via GitHub & in person.
 
 GOOD LUCK!
+
+**Reference The Image Below For Where To Click To Leave A Comment**
 
 ![image](https://github.com/tronpartnerships/TBT-NY-Engagement-Bounties/assets/115742536/ebcac66e-cf8c-457b-a2b3-15dc2f543a27)
